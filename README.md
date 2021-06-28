@@ -1,6 +1,6 @@
 <h2> Hi, I'm Andrés Peña!</h2>
 <img align='right' src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230">
-<p><em>Full Stack Developer at <a href="https://tupago.com.co/">Tu Pago</a></em></p>
+<p><em>Full Stack Developer </em></p>
 
 [![Linkedin: andrespiarpu](https://img.shields.io/badge/-andrespiarpu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespiarpu/)](https://www.linkedin.com/in/andrespiarpu/)
 [![GitHub kirhammer](https://img.shields.io/github/followers/kirhammer?label=follow&style=social)](https://github.com/kirhammer)
